@@ -14,8 +14,6 @@
 
 **IT STUDENT @ CIT, CHENNAI**
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
-
 - 🌱 I'm currently learning **DSA, Cloud (AWS), and integrating AI/ML into my workflow**
 - 💼 Web Dev Intern @ **Friendszion Technologies** — built 5+ live pages, integrated REST APIs
 - 🧠 Built an ML model with **94% accuracy** for thyroid disease detection
@@ -29,12 +27,15 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/vaishnavi-pm)
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/vaishnavi-pm)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/_.vai.shu._)
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/Vaishnavipm15)
 [<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vaishnavipm.it2024@citchennai.net)
 
 ---
 
 ### I code in
 
+<p align="left">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -47,16 +48,19 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+</p>
 
 ---
 
 ### IDE and Tools I Use
 
+<p align="left">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 <img height="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img height="50" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 <img height="50" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
