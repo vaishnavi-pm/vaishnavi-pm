@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vaishnavi+PM+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+React+%2B+Laravel;Cloud+%26+AI%2FML+Enthusiast+%E2%98%81%EF%B8%8F;Building+Real+Products+That+Matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vaishnavi-pm&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vaishnavi-pm)
 
