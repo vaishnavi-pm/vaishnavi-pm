@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishnavi%20PM&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20IT%20Student%20%7C%20Full-Stack%20Dev%20%7C%20React%20%C2%B7%20Laravel%20%C2%B7%20Python%20%7C%20Cloud%20%26%20AI%2FML%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+
 
 <div align="center">
 
