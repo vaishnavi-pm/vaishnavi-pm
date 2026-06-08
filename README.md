@@ -1,9 +1,6 @@
-
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vaishnavi+PM+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+React+%2B+Laravel;Cloud+%26+AI%2FML+Enthusiast+%E2%98%81%EF%B8%8F;Building+Real+Products+That+Matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vaishnavi+PM+%F0%9F%91%8B;Full-Stack+Dev+%7C+React+%2B+Laravel;Cloud+%26+AI%2FML+Enthusiast+%E2%98%81%EF%B8%8F;Building+Real+Products+That+Matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vaishnavi-pm&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vaishnavi-pm)
 
@@ -11,80 +8,58 @@
 
 ---
 
-## Hi there 👋 It's me VAISHNAVI PM
+### Hi, I'm Vaishnavi PM 👋
 
-**IT STUDENT @ CIT, CHENNAI**
+**B.Tech IT · Chennai Institute of Technology · 2024–2028 · CGPA 8.2/10**
 
-- 🌱 I'm currently learning **DSA, Cloud (AWS), and integrating AI/ML into my workflow**
-- 💼 Web Dev Intern @ **Friendszion Technologies** — built 5+ live pages, integrated REST APIs
-- 🧠 Built an ML model with **94% accuracy** for thyroid disease detection
-- 👁️ Developed a **face recognition attendance system** that clocks 30 students in under 10 seconds
-- ⚡ Fun fact: I once reduced attendance time from **5 minutes → 10 seconds** with OpenCV!
-- 📫 Reach me at: **vaishnavipm.it2024@citchennai.net**
+- 💼 Web Dev Intern @ **Friendszion Technologies** — built 5+ live pages, integrated REST APIs  
+- 🧠 ML model for **thyroid disease detection** — 94% accuracy, F1: 0.91, 7,200 records  
+- 👁️ **Face recognition attendance system** — 30 students clocked in under 10 seconds with OpenCV  
+- 🌱 Currently learning **DSA, AWS Cloud**, and integrating AI/ML into real products  
+- ⚡ Fun fact: cut attendance time from **5 minutes → 10 seconds** with Python + OpenCV  
+- 📫 vaishnavipm.it2024@citchennai.net
 
-<br/>
-
-**Social Presence**
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/vaishnavi-pm)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/vaishnavi-pm)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/_.vai.shu.__)
-[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/Vaishnavipm15)
-[<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vaishnavipm.it2024@citchennai.net)
+**Connect:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-pm)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vaishnavi-pm)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vaishnavipm15)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishnavipm.it2024@citchennai.net)
 
 ---
 
-### I code in
-
-<p align="left">
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-</p>
-
----
-
-### IDE and Tools I Use
-
-<p align="left">
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Featured Projects
+### 🚀 Projects
 
 | Project | Stack | Impact |
-|---------|-------|--------|
+|---|---|---|
 | **ZARA – CRM App** | Laravel · MySQL · Blade | 70% less manual effort · 1,000+ records |
-| **Tripora – Travel Booking** | React.js · Tailwind CSS | 95+ Lighthouse score · 30% smaller bundle |
-| **Thyroid Detection ML** | Python · Scikit-learn · SMOTE | 94% accuracy · F1: 0.91 · 7,200 records |
-| **Face Recognition Attendance** | Python · OpenCV | 97% accuracy · 5 min → 10 sec |
+| **Tripora – Travel Booking** | React.js · Tailwind CSS | 95 Lighthouse score · 30% smaller bundle |
+| **Thyroid Detection ML** | Python · Scikit-learn · SMOTE | 94% acc · F1: 0.91 · 7,200 records |
+| **Face Recognition Attendance** | Python · OpenCV | 97% acc · 5 min → 10 sec |
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 🏅 Certifications
 
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco Cybersecurity](https://img.shields.io/badge/Cisco_Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco IoT](https://img.shields.io/badge/Cisco_IoT-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cisco_Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![IoT](https://img.shields.io/badge/Cisco_IoT-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Accenture](https://img.shields.io/badge/Accenture_Dev_Experience-A100FF?style=flat-square&logo=accenture&logoColor=white)
-![AnitaB](https://img.shields.io/badge/AnitaB.org-E91E8C?style=flat-square&logoColor=white)
 
 ---
 
@@ -92,17 +67,8 @@
 
 ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-pm&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavi-pm&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/vaishnavi-pm)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavi-pm&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD)](https://github.com/vaishnavi-pm)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Vaishnavipm15?ext=contest&theme=dark)](https://leetcode.com/u/Vaishnavipm15)
 
-[![Vaishnavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-pm&bg_color=000000&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/vaishnavi-pm)
-
----
-
-### 🎓 Education
-
-**B.Tech Information Technology** — Chennai Institute of Technology, Chennai (2024–2028)
-CGPA: **8.2 / 10** | DSA · OOP · DBMS · Computer Networks · OS
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-pm&bg_color=000000&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/vaishnavi-pm)
